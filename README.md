@@ -1,1 +1,1 @@
-# cybersecurity-jwt
+# JSON Web Tokens (jwt) Authentication
