@@ -12,7 +12,11 @@ This code is for testing the following techniques on a JWT to bypass authenticat
 ## Installation
 
 ```
-git clone https://github.com/keramatAlijani/Hacking-JWT.git
+https://github.com/paulveillard/cybersecurity-jwt.git
+```
+
+```
+cd /Hacking-JWT
 ```
 
 
